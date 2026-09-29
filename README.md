@@ -57,18 +57,11 @@ A minimal RLHF-style demo using [`trl`](https://github.com/huggingface/trl)'s `G
 ## References
 
 1. Lukas Brunke, Melissa Greeff, Adam W Hall, Zhaocong Yuan, Siqi Zhou, Jacopo Panerati, and Angela P Schoellig. "Safe learning in robotics: From learning-based control to safe reinforcement learning." *Annual Review of Control, Robotics, and Autonomous Systems*, 5:411–444, 2022.
-2. Roderick Bloem, Bettina Könighofer, Robert Könighofer, and Chao Wang. "Shield synthesis." In *International Conference on Tools and Algorithms for the Construction and Analysis of Systems*. Springer, 2015, 533–548.
-3. Mohammed Alshiekh, Roderick Bloem, Rüdiger Ehlers, Bettina Könighofer, Scott Niekum, and Ufuk Topcu. "Safe Reinforcement Learning via Shielding." In *AAAI-18: 32nd AAAI Conference on Artificial Intelligence*, 2018, 2669–2678.
-4. Hadas Kress-Gazit, Georgios E Fainekos, and George J Pappas. "Temporal logic-based reactive mission and motion planning." *IEEE Transactions on Robotics* 25, 6 (2009): 1370–1381.
-5. Marc G. Bellemare, Will Dabney, and Mark Rowland. *Distributional Reinforcement Learning*. MIT Press, 2023. http://www.distributional-rl.org
-6. Aske Plaat, Max van Duijn, Niki van Stein, Mike Preuss, Peter van der Putten, and Kees Joost Batenburg. "Agentic large language models, a survey." *arXiv preprint arXiv:2503.23037* (2025).
-7. Ahsan Bilal, Muhammad Ahmed Mohsin, Muhammad Umer, Muhammad Awais Khan Bangash, and Muhammad Ali Jamshed. "Meta-thinking in LLMs via multi-agent reinforcement learning: A survey." *arXiv preprint arXiv:2504.14520* (2025).
-8. Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, and Yaodong Yang. "Safe RLHF: Safe Reinforcement Learning from Human Feedback." In *The Twelfth International Conference on Learning Representations*, 2023.
-9. Amit Kumthekar, Zion Tilley, Henry Duong, Bhargav Patel, Michael Magnoli, Ahmed Omar, Ahmed Nasser, Chaitanya Gharpure, and Yevgen Reztzov. "Second Opinion Matters: Towards Adaptive Clinical AI via the Consensus of Expert Model Ensemble." *arXiv e-prints* (2025): arXiv-2505.
-10. Juan Manuel Zambrano Chaves, Eric Wang, Tao Tu, Eeshit Dhaval Vaishnav, Byron Lee, S. Sara Mahdavi, Christopher Semturs, David Fleet, Vivek Natarajan, and Shekoofeh Azizi. "Tx-LLM: A large language model for therapeutics." *arXiv preprint arXiv:2406.06316* (2024).
-11. Leslie Pack Kaelbling, Michael L Littman, and Andrew W Moore. "Reinforcement learning: A survey." *Journal of Artificial Intelligence Research*, 4:237–285, 1996.
-12. Christel Baier and Joost-Pieter Katoen. *Principles of Model Checking*. MIT Press, 2008.
-13. Pictures from [FreePik](https://www.freepik.com/).
+2. Marc G. Bellemare, Will Dabney, and Mark Rowland. *Distributional Reinforcement Learning*. MIT Press, 2023. http://www.distributional-rl.org
+3. Aske Plaat, Max van Duijn, Niki van Stein, Mike Preuss, Peter van der Putten, and Kees Joost Batenburg. "Agentic large language models, a survey." *arXiv preprint arXiv:2503.23037* (2025).
+4. Ahsan Bilal, Muhammad Ahmed Mohsin, Muhammad Umer, Muhammad Awais Khan Bangash, and Muhammad Ali Jamshed. "Meta-thinking in LLMs via multi-agent reinforcement learning: A survey." *arXiv preprint arXiv:2504.14520* (2025).
+5. Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, and Yaodong Yang. "Safe RLHF: Safe Reinforcement Learning from Human Feedback." In *The Twelfth International Conference on Learning Representations*, 2023.
+6. Leslie Pack Kaelbling, Michael L Littman, and Andrew W Moore. "Reinforcement learning: A survey." *Journal of Artificial Intelligence Research*, 4:237–285, 1996.
 
 ### Resources to learn more
 
